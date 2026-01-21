@@ -16,7 +16,7 @@ html, body {
     min-height: 100%vh ;
     background-color: darkgray;
     font-family: var(--font1);
-    font-size: 1.1em;
+    font-size: 17px;
 }
 
 header {
@@ -99,4 +99,6 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    font-family: var(--font3);
+    font-size: 12px;
 }
